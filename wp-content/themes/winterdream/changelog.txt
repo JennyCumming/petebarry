@@ -1,0 +1,54 @@
+Changelog Legend:
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+----
+
+(04/08/2015) - Update - Version 1.0.5
+
+[+] Added Danish translation.
+[*] Updated Czech translation.
+[*] Updated the list of available Google fonts (corrected nonfunctional fonts).
+[*] Updated sidebar.php (added condition "is_active_sidebar" so the #sidebar element does not show if there isn't any widget in the Right Sidebar widget area).
+
+----
+
+(19/03/2015) - Update - Version 1.0.4
+
+[+] Added Greek translation.
+[+] Added support for the "pingback" link in <head> section.
+[+] Added unminified version of the Placeholders.js script.
+[*] Updated Placeholders.js script to the version 3.0.2.
+[*] Updated Spanish translation.
+
+----
+
+(30/01/2015) - Update - Version 1.0.3
+
+[+] Added Dutch translation.
+[+] Added ability to use the "nextpage" tag on pages.
+
+----
+
+(06/01/2015) - Update - Version 1.0.2
+
+[+] Added support for the Title Tag feature.
+[*] Updated paginate_links() arguments (added "add_args").
+[*] Updated the "viewport" meta tag.
+
+----
+
+(22/12/2014) - Update - Version 1.0.1
+
+[+] Added Italian translation.
+[*] Updated German translation.
+[*] Updated including of the TGM_Plugin_Activation class (only the users who are allowed to install plugins can see it now).
+
+----
+
+(23/10/2014) - The initial public release - Version 1.0.0
